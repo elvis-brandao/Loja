@@ -142,3 +142,4 @@ C:\Users\es8645\Documents\ProjetosTeste\Loja\loja.api\obj\Debug\net8.0\refint\Lo
 C:\Users\es8645\Documents\ProjetosTeste\Loja\loja.api\obj\Debug\net8.0\Loja.Api.pdb
 C:\Users\es8645\Documents\ProjetosTeste\Loja\loja.api\obj\Debug\net8.0\Loja.Api.genruntimeconfig.cache
 C:\Users\es8645\Documents\ProjetosTeste\Loja\loja.api\obj\Debug\net8.0\ref\Loja.Api.dll
+C:\Users\es8645\Documents\ProjetosTeste\Loja\loja.api\obj\Debug\net8.0\Loja.Api.sourcelink.json
